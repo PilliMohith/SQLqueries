@@ -1,4 +1,4 @@
-What To Do
+**What To Do**
 
 Read the SQL questions provided in the repository.
 
@@ -8,6 +8,6 @@ Add your answers in the designated solutions branch.
 
 Keep each solution clear, readable, and working.
 
-How To Contribute
+**How To Contribute**
 
 check CONTRIBUTING.md and follow the instructions.
